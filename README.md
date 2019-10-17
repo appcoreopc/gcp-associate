@@ -11,3 +11,7 @@ https://cloud.google.com/certification/cloud-engineer
 
 
 Start off with the exam, to get an idea 
+
+Course online free 
+
+https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam/home/welcome
