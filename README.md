@@ -8,3 +8,6 @@ https://www.pdfdrive.com/official-google-cloud-certified-associate-cloud-enginee
 Starting point
 
 https://cloud.google.com/certification/cloud-engineer
+
+
+Start off with the exam, to get an idea 
