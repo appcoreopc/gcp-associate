@@ -15,4 +15,27 @@ GCP will automatically grant Project Creator and Billing Account Creator IAM rol
 
 
 IAM specify who can do things
+
 Organzation policy specify what can be done on resources
+
+
+Model for access management :-
+
+a) member 
+b) role 
+c) policy
+
+
+identity
+
+a) google account
+
+b) service account - belongs to application 
+
+c) google group 
+
+d) gsuite doman 
+
+e) cloud identiy domain
+
+
