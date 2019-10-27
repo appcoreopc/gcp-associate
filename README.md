@@ -27,12 +27,24 @@ Billing
 Billing accounts are tieds to project. Make sense cuz that's how it works in the corporate world.
 
 ## Types of accounts
+
 Billing Account Creator, which can create new self-service billing accounts
+
 Billing Account Administrator, which manages billing accounts but cannot create them
+
 Billing Account User, which enables a user to link projects to billing accounts
+
 Billing Account Viewer, which enables a user to view billing account cost and transactions
 
+
+
 Output format : csv and json 
+
+Stackdriver 
+- Need a workspace to make logs analysis works
+
+
+
 
 App engine 
 
