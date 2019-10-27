@@ -16,14 +16,27 @@ Course online free
 
 https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam/home/welcome
 
-
-
-
 Image-based Questions: 2 Questions
 
 
 Provided the sample company cloud architecture diagram with blanks and asked to fill the blanks with suitable GCP services as per requirement demand 
 
+
+Billing
+
+Billing accounts are tieds to project. Make sense cuz that's how it works in the corporate world.
+
+## Types of accounts
+Billing Account Creator, which can create new self-service billing accounts
+Billing Account Administrator, which manages billing accounts but cannot create them
+Billing Account User, which enables a user to link projects to billing accounts
+Billing Account Viewer, which enables a user to view billing account cost and transactions
+
+Output format : csv and json 
+
+App engine 
+
+Compute engine 
 
 
 
